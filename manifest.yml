@@ -1,6 +1,6 @@
 ---
 applications:
-- name: spring-music
+- name: sada-music
   memory: 1G
   random-route: true
   stack: org.cloudfoundry.stacks.cflinuxfs3
