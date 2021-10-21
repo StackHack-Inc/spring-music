@@ -14,8 +14,8 @@
     background-image: -ms-linear-gradient(top, #000000, #000000);
     background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#000000), to(#000000));
     background-image: -webkit-linear-gradient(top, #000000, #000000);
-    background-image: -o-linear-gradient(top, #008a00, #006b00);
-    background-image: linear-gradient(top, #008a00, #006b00);
+    background-image: -o-linear-gradient(top, #000000, #000000);
+    background-image: linear-gradient(top, #000000, #000000);
 }
 
 .navbar .navbar-brand {
